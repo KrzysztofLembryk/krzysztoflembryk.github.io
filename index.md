@@ -2,6 +2,7 @@
 title: INTRO
 show_drafts: false
 layout: home
+permalink:  https://krzysztoflembryk.github.io/
 ---
 
 Here is a site about TIOBE Index for February 2024
