@@ -1,1 +1,0 @@
-# krzysztoflembryk.github.io
