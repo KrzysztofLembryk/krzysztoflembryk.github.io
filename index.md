@@ -3,8 +3,10 @@ title: INTRO
 show_drafts: false
 layout: home
 ---
-
-Here is a site about TIOBE Index for February 2024
+# This is the homepage for AWWW projects.
+- Here is a html site written by hand (lab2):
+[htmlpage]({% link my_html_site.html %})
+- Here is a site about TIOBE Index for February 2024 (lab1):
 
 **Quick intro**: The TIOBE Programming Community index is an indicator of the popularity of programming languages. The index is updated once a month. The ratings are based on the number of skilled engineers world-wide, courses and third party vendors.
 [MoreInfo]({% link lang_lst.md %})
