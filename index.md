@@ -4,6 +4,8 @@ show_drafts: false
 layout: home
 ---
 # This is the homepage for AWWW projects.
+- Here is a previous html site with TailWindCSS formatting (lab3):
+[tailwind_htmlpage]({% link lab_pages/site_with_css_formatting.html %})
 - Here is a html site written by hand (lab2):
 [htmlpage]({% link lab_pages/my_html_site.html %})
 - Here is a site about TIOBE Index for February 2024 (lab1):
