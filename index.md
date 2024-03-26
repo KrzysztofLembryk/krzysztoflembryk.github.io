@@ -4,6 +4,8 @@ show_drafts: false
 layout: home
 ---
 # This is the homepage for AWWW projects.
+- Here is a form done in Bootstrap (lab4):
+[bootstrap_page]({% link lab_pages/bootstrap_site.html %})
 - Here is a previous html site with TailWindCSS formatting (lab3):
 [tailwind_htmlpage]({% link lab_pages/site_with_css_formatting.html %})
 - Here is a html site written by hand (lab2):
